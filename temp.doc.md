@@ -1,6 +1,7 @@
 # Temporary document
 
 
+
 ## Reverse proxy
 
 ![pic](https://miro.medium.com/v2/resize:fit:640/format:webp/1*Gm_q3hi9cBRFeGA1NoxowQ.png)
@@ -131,10 +132,17 @@ STUN ( Session Traversal Utilities for NAT )
 [Browser-based WebRTC stream from RTSP IP camera with low latency](https://flashphoner.com/browser-based-webrtc-stream-from-rtsp-ip-camera-with-low-latency/)
 
 
-
-
 <br>
 <br>
+
+![eyenix-streaming-usecase](eyenix_streaming.png)
+<br>
+<br>
+
+## TRANSCODING
+
+![img](https://www.wowza.com/uploads/images/live-transcoding-diagram-detailed-1140x630.png)
+
 <br>
 <br>
 <br>

@@ -172,9 +172,9 @@ Change Line number 1187
 ## FLASHING IMAGES 
 Uboot raw Binary image flash into NOR Flash memory withing Evaluation Board (EVK10)
 
-|uboot|kernel|app|
-|-----|------|----|
-|0x00
+|u-boot.en675.bin |kernel.en675.gz | videocore.en675.gz |app.img|
+|-----|------|----|----|
+|0x00| 0x80000 | 0x880000| 0x990000 |
 
 
 **Flashing tool ECMT ( Eyenix Control Management Tool )**
@@ -1036,4 +1036,4 @@ Date: Mon, 06 Nov 2023 08:29:38 GMT
 
 **RTSP URL :<mark> rtsp://10.10.10.5:8554/jyo**</mark>
 
-![rtsp image stream sample pic](media/rtsp-image-stream-sample-pic.png)
+![rtsp image stream sample pic](rtsp-image-stream-sample-pic.png)

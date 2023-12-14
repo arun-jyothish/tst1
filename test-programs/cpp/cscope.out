@@ -1,0 +1,164 @@
+cscope 15 $HOME/rough/test-programs/cpp               0000000690
+	@usr_def.cpp
+
+1 
+	~<io¡»am
+>
+
+2 
+	~<¡ršg
+>
+
+3 
+	~"u¤_def.hh
+"
+
+11 
+	gP”sÚ
+::
+	$P”sÚ
+(
+¡d
+::
+¡ršg
+ 
+Çme
+, 
+age
+){
+
+12 
+this
+->
+Çme
+ =‚ame;
+
+13 
+this
+->
+age
+ =‡ge;
+
+14 
+	}
+}
+
+16 
+	g¡d
+::
+¡ršg
+ 
+P”sÚ
+::
+	$g‘Name
+(){
+
+17 
+¡d
+::
+cout
+<< "P”sÚ‚ame: " << 
+Çme
+ << std:: 
+’dl
+;
+
+18  
+Çme
+;
+
+19 
+	}
+}
+
+21 
+	gP”sÚ
+::
+	$g‘Age
+(){
+
+22 
+¡d
+::
+cout
+<< "P”sÚ Age: " << 
+age
+ << std:: 
+’dl
+;
+
+23  
+age
+;
+
+24 
+	}
+}
+
+	@usr_def.hh
+
+1 #´agm¨
+Úû
+
+
+2 
+	~<io¡»am
+>
+
+4 þas 
+	cP”sÚ
+{
+
+5 
+	m´iv©e
+:
+
+6 
+¡d
+::
+¡ršg
+ 
+Çme
+;
+
+7 
+	mage
+;
+
+8 
+	mpublic
+:
+
+9 
+P”sÚ
+(
+¡d
+::
+¡ršg
+ 
+Çme
+, 
+age
+);
+
+10 
+	m¡d
+::
+¡ršg
+ 
+g‘Name
+();
+
+11 
+g‘Age
+();
+
+	@
+1
+.
+1
+/usr/include
+2
+23
+usr_def.cpp
+usr_def.hh
